@@ -1,6 +1,11 @@
 # ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka
 
-## Objectives
+
+
+
+
+## Final assessment
+### Objectives
 Extract data from a csv file
 
 Extract data from a tsv file
@@ -11,9 +16,6 @@ Transform the data
 
 Load the transformed data into the staging area
 
-
-
-## Final assessment
 Exercise 1: Create imports, DAG argument and definition
 
 Task 1.1: Define DAG arguments (2 pts)
